@@ -2,7 +2,9 @@
 Установите Ionic CLI, если еще не установлен:
 
 bash
+
 npm install -g @ionic/cli
+
 Создайте новый проект или добавьте Ionic в существующий:
 
 bash
